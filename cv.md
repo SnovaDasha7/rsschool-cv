@@ -4,6 +4,7 @@
 * __Location__: Chelyabinsk
 * __Email__: [dakis1408@gmail.com](dakis1408@gmail.com)
 * __GitHub__: [SnovaDasha7](SnovaDasha7)
+
 ## About me
 I am a civil engineer by education. But I decided to change my professional activity and become front-end developer. I really want to become a cool front-end developer. And improve your English level.
 
